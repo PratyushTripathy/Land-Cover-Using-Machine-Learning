@@ -1,5 +1,5 @@
 # Land-Cover-Using-Machine-Learning
-This repository contains links to resources for land cover classification.<br/>
+This repository contains links to resources for land cover classification. You can refer to this YouTube playlist ([Land Cover Using Machine Learning](https://youtube.com/playlist?list=PL5VtL7Y4tgIl_wNWdus4_CwWvmdKCH7bz)) to see how to use these. <br/>
 
 ## 1. Downloading Landsat data using Google Earth Engine<br/>
 Landsat 8 download script [link](https://code.earthengine.google.com/c58ecc2eb008b710aa6a16dc827beaca)<br/>
