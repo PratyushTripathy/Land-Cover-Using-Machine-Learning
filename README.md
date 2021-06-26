@@ -6,3 +6,6 @@ Landsat 8 download script [link](https://code.earthengine.google.com/c58ecc2eb00
 
 ## 2. Create land cover data in QGIS using downloaded Landsat<br/>
 All the data related to this can be found in the [data folder](./Data/Video_2).<br/>
+
+## 3. Accuracy assessment of land cover data in QGIS<br/>
+All the data related to this can be found in the [data folder](./Data/Video_3).<br/>
