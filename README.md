@@ -9,3 +9,8 @@ All the data related to this can be found in the [data folder](./Data/Video_2).<
 
 ## 3. Accuracy assessment of land cover data in QGIS<br/>
 All the data related to this can be found in the [data folder](./Data/Video_3).<br/>
+
+## 4. Setting up Python, GDAL and Tensorflow<br/>
+Python and GDAL automated download [link](https://towardsdatascience.com/python-and-gdal-installation-automated-for-windows-10-f22686595447).<br/>
+Microsoft Visual Studio Community download [link](https://visualstudio.microsoft.com/vs/older-downloads/).<br/>
+CUDA and Tensorflow compatibility list [link](https://www.tensorflow.org/install/source_windows).<br/>
