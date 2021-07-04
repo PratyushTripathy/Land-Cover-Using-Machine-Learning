@@ -14,3 +14,4 @@ All the data related to this can be found in the [data folder](./Data/Video_3).<
 Python and GDAL automated download [link](https://towardsdatascience.com/python-and-gdal-installation-automated-for-windows-10-f22686595447).<br/>
 Microsoft Visual Studio Community download [link](https://visualstudio.microsoft.com/vs/older-downloads/).<br/>
 CUDA and Tensorflow compatibility list [link](https://www.tensorflow.org/install/source_windows).<br/>
+CUDA path in system environment variables [linl](https://www.tensorflow.org/install/gpu).<br/>
